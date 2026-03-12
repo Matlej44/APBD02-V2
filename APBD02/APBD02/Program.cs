@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         
-        Console.WriteLine("First commit");
+        Console.WriteLine("Main Conflict");
         
         Console.WriteLine(Math.PI);
         
