@@ -16,6 +16,8 @@ class Program
         
         int[] numbers = { 1, 2, 3, 4, 5 };
         Console.WriteLine(CalculateAvarage(numbers));
+        
+        Console.WriteLine(CalculateMax(numbers));
     }
     public static double CalculateAvarage(int[] numbers)
     {
