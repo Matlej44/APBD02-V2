@@ -33,6 +33,6 @@ class Program
     public static int CalculateMin(int[] numbers)
     {
         int min = numbers.Min();
-        return 0;
+        return min;
     }
 }
