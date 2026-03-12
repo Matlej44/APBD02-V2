@@ -9,5 +9,7 @@ class Program
         Console.WriteLine("First commit");
         
         Console.WriteLine(Math.PI);
+        
+        Console.WriteLine("Hello, World!".GetHashCode());
     }
 }
