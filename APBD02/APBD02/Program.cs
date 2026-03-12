@@ -29,4 +29,9 @@ class Program
         int max = numbers.Max();
         return max;
     }
+
+    public static int CalculateMin(int[] numbers)
+    {
+        return 0;
+    }
 }
