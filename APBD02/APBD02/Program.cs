@@ -13,6 +13,9 @@ class Program
         Console.WriteLine("Hello, World!".GetHashCode());
         
         Console.WriteLine(DateTime.Now);
+        
+        int[] numbers = { 1, 2, 3, 4, 5 };
+        Console.WriteLine(CalculateAvarage(numbers));
     }
     public static double CalculateAvarage(int[] numbers)
     {
