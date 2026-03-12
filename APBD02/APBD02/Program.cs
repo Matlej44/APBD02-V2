@@ -11,5 +11,7 @@ class Program
         Console.WriteLine(Math.PI);
         
         Console.WriteLine("Hello, World!".GetHashCode());
+        
+        Console.WriteLine(DateTime.Now);
     }
 }
