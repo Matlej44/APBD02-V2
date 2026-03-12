@@ -14,4 +14,9 @@ class Program
         
         Console.WriteLine(DateTime.Now);
     }
+    public static double CalculateAvarage(int[] numbers)
+    {
+        double avg = numbers.Sum() / numbers.Length;
+        return 0.0;
+    }
 }
