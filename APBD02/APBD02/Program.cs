@@ -19,4 +19,9 @@ class Program
         double avg = numbers.Sum() / numbers.Length;
         return avg;
     }
+    public static int CalculateMax(int[] numbers)
+    {
+        int max = numbers.Max();
+        return max;
+    }
 }
