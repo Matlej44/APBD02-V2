@@ -17,6 +17,6 @@ class Program
     public static double CalculateAvarage(int[] numbers)
     {
         double avg = numbers.Sum() / numbers.Length;
-        return 0.0;
+        return avg;
     }
 }
